@@ -1,0 +1,591 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"condition"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"sintoma",
+				"sintoma"
+			],
+			[
+				"conta",
+				"contacto"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"s",
+				"styleHtmlContent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2992,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 954,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/sintomas.js",
+			"settings":
+			{
+				"buffer_size": 651,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/detalles.js",
+			"settings":
+			{
+				"buffer_size": 684,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/enfermedades.js",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json_sintoma.php",
+			"settings":
+			{
+				"buffer_size": 590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json_diagnostico.php",
+			"settings":
+			{
+				"buffer_size": 1448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json_detalle.php",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json_enfermedad.php",
+			"settings":
+			{
+				"buffer_size": 591,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Dr Cat/diagnostico.html",
+		"/C/wamp/www/Dr Cat/js/main.js",
+		"/C/wamp/www/Dr Cat/js/detalles.js",
+		"/C/wamp/www/Dr Cat/detalles.html",
+		"/C/Users/Gio/Documents/Mis sitios/Dr Cat/json_sintoma.php",
+		"/C/Users/Gio/Documents/Mis sitios/Dr Cat/index.html",
+		"/C/Users/Gio/Documents/Mis sitios/Dr Cat/js/sintomas.js",
+		"/C/Users/Gio/Downloads/index (2).php",
+		"/C/Users/Gio/Documents/Mis sitios/Dr Cat/json.php",
+		"/C/Users/Gio/Documents/Mis sitios/Dr Cat/index.php",
+		"/C/Users/Gio/Workspace/pok/src/com/pok/PokActivity.java",
+		"/C/Users/Gio/Workspace/Prueba/src/com/gio/prueba/PruebaActivity.java",
+		"/C/wamp/www/ejercicio/app/view/NotesListContainer.js",
+		"/C/wamp/www/ejercicio/app/view/NotesList.js",
+		"/C/Program Files/Corona Labs/Corona SDK/Sample Code/Physics/Chains/main.lua",
+		"/C/Users/Gio/Documents/Project Pokemon/src/main.lua",
+		"/C/Users/Gio/Documents/Corona Projects/Prueba/main.lua",
+		"/C/wamp/www/ejercicio/app/view/NoteEditor.js",
+		"/C/Program Files/Corona Labs/Corona SDK/Sample Code/GettingStarted/FrameAnimation2/main.lua",
+		"/C/Program Files/Corona Labs/Corona SDK/Sample Code/GettingStarted/HelloWorld/main.lua",
+		"/C/wamp/www/Gio/index.html",
+		"/C/wamp/www/Gio/css/navigation.css",
+		"/C/wamp/www/Gio/css/style.css",
+		"/C/wamp/www/Gio/css/reset.css",
+		"/C/wamp/www/Symfony/app/config/routing_dev.yml",
+		"/C/wamp/www/miinfo/index.html",
+		"/C/wamp/www/miinfo/style.css",
+		"/C/wamp/www/Gio/css/slider.css",
+		"/C/wamp/www/Gio/js/script_parallax.js",
+		"/C/wamp/www/Gio/SpryAssets/SpryValidationTextField.css",
+		"/C/wamp/www/miinfo/twitteroauth.php",
+		"/C/wamp/www/miinfo/tuitear.php",
+		"/C/Users/Gio/Documents/Mis sitios/Mostros/index.html",
+		"/C/wamp/www/ejercicio/index.html",
+		"/C/wamp/www/ejercicio/app.js",
+		"/C/wamp/www/ejercicio/app/store/Notes.js",
+		"/C/wamp/www/ejercicio/resources/css/app.css",
+		"/C/wamp/www/ejercicio/app/controller/notes.js",
+		"/C/wamp/www/prueba/app/view/NotesList.js",
+		"/C/wamp/www/prueba/app/view/NotesListContainer.js",
+		"/C/wamp/www/prueba/app.js",
+		"/C/wamp/www/prueba/index.html",
+		"/C/wamp/www/prueba/app/controller/Notes.js",
+		"/C/wamp/www/prueba/app/model/Note.js",
+		"/C/wamp/www/ejercicio/app/model/Note.js",
+		"/C/wamp/www/prueba/resources/css/app.css",
+		"/C/wamp/www/ejercicio/app/model/note.js",
+		"/C/wamp/www/ejercicio1/app.js",
+		"/C/wamp/www/ejercicio1/index.html",
+		"/C/wamp/www/GS/index.html",
+		"/C/wamp/www/sencha/index.html",
+		"/C/wamp/www/sencha/sencha-touch.js",
+		"/C/Users/Gio/Downloads/richardshepherd-Parallax-Scrolling-ed508c0/index.html",
+		"/C/Users/Gio/Downloads/richardshepherd-Parallax-Scrolling-ed508c0/css/style.css",
+		"/C/Users/Gio/Downloads/richardshepherd-Parallax-Scrolling-ed508c0/js/script.js",
+		"/C/Users/Gio/Downloads/richardshepherd-Parallax-Scrolling-ed508c0/js/libs/dd_belatedpng.js",
+		"/C/Users/Gio/Downloads/davecranwell-jQuery-scroll-parallax-cde7495/styles.css",
+		"/C/wamp/www/Gio/js/jquery.scrollParallax.js",
+		"/C/wamp/www/Gio/js/scripts.js",
+		"/C/Users/Gio/Documents/Mis sitios/Gio/index.html",
+		"/C/Users/Gio/Downloads/davecranwell-jQuery-scroll-parallax-cde7495/index.html",
+		"/C/Users/Gio/Documents/Mis sitios/Gio/css/style.css",
+		"/C/Users/Gio/Documents/Mis sitios/Gio/js/scripts.js",
+		"/C/Users/Gio/Documents/Mis sitios/Gio/js/jquery.scrollParallax.js",
+		"/C/Users/Gio/Downloads/davecranwell-jQuery-scroll-parallax-cde7495/scripts.js",
+		"/C/Users/Gio/Documents/Project Pokemon/prueba.html",
+		"/C/wamp/www/GS/app.js",
+		"/C/wamp/www/GS/app/view/Main.js",
+		"/C/wamp/www/ejercicio/app/view/Main.js",
+		"/C/wamp/www/GS/app/view/login.js",
+		"/C/wamp/www/sencha/examples/touchtweets/app/proxy/Twitter.js",
+		"/C/wamp/www/sencha/examples/touchtweets/app/model/Tweet.js",
+		"/C/wamp/www/sencha/examples/touchtweets/app.js",
+		"/C/wamp/www/sencha/examples/touchtweets/app/model/Search.js",
+		"/C/wamp/www/sencha/examples/forms/app.js",
+		"/C/wamp/www/sencha/examples/map/app.js",
+		"/C/wamp/www/GS/apps.js",
+		"/C/wamp/www/GS/app.json",
+		"/C/wamp/www/prueba/lib/touch/sencha-touch-all.js",
+		"/C/wamp/www/prueba/lib/touch/sencha-touch.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enfermedad",
+			"checkbox_",
+			"fieldset",
+			"employee",
+			"form",
+			"form_test",
+			"story",
+			"main",
+			";\n",
+			"script",
+			"/*!",
+			"\n</"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"diagnostico",
+			"",
+			"sintoma"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2273,
+								2303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 573.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/sintomas.js",
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/detalles.js",
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/enfermedades.js",
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "json_sintoma.php",
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "json_diagnostico.php",
+					"settings":
+					{
+						"buffer_size": 1448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1238,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "json_detalle.php",
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "json_enfermedad.php",
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

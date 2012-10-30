@@ -1,0 +1,99 @@
+
+<!DOCTYPE html> 
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dr Cat</title>
+<link href="style/jquery.mobile-1.0.min.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="themes/default.css" />
+<script src="js/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="js/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+</head> 
+<body> 
+
+<!--
+		======== HOME ========
+ -->
+<div data-role="page" id="home">
+	<div data-role="header">
+		<h1>Doctor Cat</h1>
+	</div>
+	<div data-role="content">	
+		<center><img src="images/doctorcat.jpg" /></center>	
+        <a href="#sintoma" data-icon="arrow-r" data-iconpos="right" data-role="button">Diagnosticar</a>
+        <a href="#enfermedad" data-icon="search" data-iconpos="right" data-role="button">Buscar Enfermedad</a>
+        <a href="#sobremi" data-icon="arrow-d" data-transition="slideup" data-iconpos="right" data-role="button">Sobre mi...</a>
+	</div>
+  
+</div>
+
+<!--
+		======== SINTOMA ========
+ -->
+<div data-role="page" id="sintoma">
+	<div data-role="header">
+		<a href="#home" data-icon="home"  data-iconpos="notext" data-role="button" onClick="reiniciarCheckbox();"></a>
+		<h1>Selecciona tus sintomas</h1>
+		<a href="#diagnostico" data-icon="forward" data-iconpos="right" data-role="button" onClick="getSintomas();">Diagnosticar</a> 
+	</div>
+	<div data-role="content" >	
+		<form action="#" method="get">		
+			<div data-role="fieldcontain" id="ListaSintomas">
+              		<!-- AQUI VA LA LISTA DE SINTOMAS -->
+              		<script src="js/sintomas.js"></script>
+          	</div>
+	    </form>
+	</div>
+</div>
+
+<!--
+		======== ENFERMEDADES ========
+ -->
+<div data-role="page" id="enfermedad">
+	<div data-role="header">
+		<a href="#home" data-icon="home" data-transition="slide"  data-iconpos="notext" data-role="button"></a>
+		<h1>Buscar Enfermedad</h1>
+	</div>
+	<div data-role="content">
+		<ul id="ListaEnfermedades" data-role="listview" data-filter="true">
+			<!-- AQUI VA LA LISTA DE ENFERMEDADES -->
+			<script src="js/enfermedades.js"></script>
+		</ul>
+	</div>
+
+</div>
+
+<!--
+		========  DIAGNOSTICO ========
+ -->
+<div data-role="page" id="diagnostico">
+	<div data-role="header">
+		<a href="#home" data-icon="home" data-transition="slide"  data-iconpos="notext" data-role="button" onClick="reiniciarCheckbox();"></a>
+		<h1>Posibles Enfermedades</h1>
+	</div>
+	<div data-role="content">
+		<ul id="ListaDiagnostico" data-role="listview" data-filter="true">
+			<!-- AQUI VA LA LISTA DE POSIBLES ENFERMEDADES -->
+		</ul>
+	</div>
+
+</div>
+
+<!--
+		======== SOBRE MI ========
+ -->
+<div data-role="page" id="sobremi">
+  <div data-role="header">
+    <a href="#home" data-icon="home" data-transition="slidedown" data-iconpos="notext" data-role="button"></a>
+    <h1>Sobre mi...</h1>
+  </div>
+	  <div data-role="content"> 
+	  	<center><img src="images/avatar.png" /><p>Giovanni Lopez - 2012</p></center>
+
+	  </div>
+</div>
+
+<script src="js/main.js"></script>
+<script src="js/detalles.js"></script>
+</body>
+</html>
